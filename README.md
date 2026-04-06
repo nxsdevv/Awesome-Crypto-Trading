@@ -192,6 +192,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
 # Coding Your Own Bots 
+ * [XHuntr](https://xhuntr.com) - X (Twitter) community sniper — Telegram bot that fires real-time alerts when tracked accounts create or join X communities, post contract addresses inside communities before tweeting publicly, or when multiple accounts converge on the same community. Social layer signal that fires 24-48h before on-chain activity.
 
 ## Trading Bots and Bot Frameworks
  * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
